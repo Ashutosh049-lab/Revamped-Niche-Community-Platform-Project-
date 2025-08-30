@@ -54,29 +54,29 @@ A modern, feature-rich social platform built with **React** and **Node.js** that
 
 ---
 ## Project Structure
-project-root/
+    project-root/
 ├── backend/
-│ ├── src/
-│ │ ├── config/
-│ │ ├── controllers/
-│ │ ├── models/
-│ │ ├── routes/
-│ │ ├── services/
-│ │ └── index.js
-│ ├── .env
-│ ├── package.json
-│ └── README.md
+│   ├── src/
+│   │   ├── config/
+│   │   ├── controllers/
+│   │   ├── models/
+│   │   ├── routes/
+│   │   ├── services/
+│   │   └── index.js
+│   ├── .env
+│   ├── package.json
+│   └── README.md
 ├── frontend/
-│ ├── public/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── features/
-│ │ ├── hooks/
-│ │ ├── pages/
-│ │ ├── styles/
-│ │ ├── App.js
-│ │ └── index.js
-│ ├── .env
-│ ├── package.json
-│ └── README.md
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── features/
+│   │   ├── hooks/
+│   │   ├── pages/
+│   │   ├── styles/
+│   │   ├── App.js
+│   │   └── index.js
+│   ├── .env
+│   ├── package.json
+│   └── README.md
 └── .gitignore
