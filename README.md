@@ -54,6 +54,8 @@ A modern, feature-rich social platform built with **React** and **Node.js** that
 
 ---
 ## Project Structure
+
+```text
 project-root/
 ├── backend/
 │   ├── src/
